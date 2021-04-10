@@ -4,7 +4,7 @@ import "fmt"
 
 
 func main() {
-    /* this is my first program*/
+    /* this is my first program */
     fmt.Println("Hello, World!")
 }
 
